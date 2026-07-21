@@ -148,6 +148,7 @@ function App() {
           <div className="skill-card">GitHub</div>
           <div className="skill-card">Tailwind CSS</div>
           <div className="skill-card">jQuery</div>
+
           <div className="skill-card">Supabase</div>
           <div className="skill-card">WordPress</div>
 
@@ -173,7 +174,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://cv-rho-flax.vercel.app/"
+                src="https://vercel.app"
                 title="CV Project"
               ></iframe>
             </div>
@@ -201,7 +202,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://cv-rho-flax.vercel.app/"
+                  href="https://vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -209,7 +210,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/CV"
+                  href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -228,7 +229,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://cart-sooty-pi.vercel.app/"
+                src="https://vercel.app"
                 title="E-Commerce Website"
               ></iframe>
             </div>
@@ -257,7 +258,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://cart-sooty-pi.vercel.app/"
+                  href="https://vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -265,7 +266,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/CART"
+                  href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -273,7 +274,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/CART-Backend"
+                  href="https://github.com-Backend"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -292,7 +293,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://login-system-kohl-three.vercel.app/"
+                src="https://vercel.app"
                 title="Login System"
               ></iframe>
             </div>
@@ -319,7 +320,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://login-system-kohl-three.vercel.app/"
+                  href="https://vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -327,7 +328,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/Login-System"
+                  href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -346,7 +347,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://wingless-bird.github.io/Weather-app/search.html"
+                src="https://github.io"
                 title="Weather App"
               ></iframe>
             </div>
@@ -374,7 +375,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://wingless-bird.github.io/Weather-app/search.html"
+                  href="https://github.io"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -382,7 +383,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/Weather-app"
+                  href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -401,7 +402,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://coming-soon-page-with-background-im.vercel.app/"
+                src="https://vercel.app"
                 title="Coming Soon Landing Page"
               ></iframe>
             </div>
@@ -428,7 +429,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://coming-soon-page-with-background-im.vercel.app/"
+                  href="https://vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -436,7 +437,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/Coming-Soon-Page-with-Background-Image-Slider"
+                  href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -455,7 +456,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://wingless-bird.github.io/One-Page-Website/"
+                src="https://github.io"
                 title="Construction Company Website"
               ></iframe>
             </div>
@@ -483,7 +484,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://wingless-bird.github.io/One-Page-Website/"
+                  href="https://github.io"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -491,7 +492,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/wingless-bird/One-Page-Website"
+                  href="https://github.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
