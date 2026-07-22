@@ -54,7 +54,7 @@ function App() {
           <div className="social-icons">
 
             <a
-              href="https://github.com"
+              href="https://github.com/wingless-bird?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               title="GitHub Profile"
@@ -63,7 +63,7 @@ function App() {
             </a>
 
             <a
-              href="#"
+              href="https://www.linkedin.com/in/mansoor-siddique-20b971146?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               rel="noopener noreferrer"
               title="LinkedIn Profile"
@@ -138,20 +138,23 @@ function App() {
           <div className="skill-card">CSS3</div>
           <div className="skill-card">JavaScript</div>
           <div className="skill-card">React</div>
-
           <div className="skill-card">Node.js</div>
           <div className="skill-card">Express.js</div>
           <div className="skill-card">MongoDB</div>
           <div className="skill-card">REST API</div>
-
           <div className="skill-card">Git</div>
           <div className="skill-card">GitHub</div>
           <div className="skill-card">Tailwind CSS</div>
           <div className="skill-card">jQuery</div>
-
           <div className="skill-card">Supabase</div>
           <div className="skill-card">WordPress</div>
-
+          <div className="skill-card">On Page SEO</div>
+          <div className="skill-card">Off Page SEO</div>
+          <div className="skill-card">TypeScript</div>
+          <div className="skill-card">Digital Marketing</div>
+          <div className="skill-card">Bootstrap</div>
+          <div className="skill-card">Responsive Design</div>
+          <div className="skill-card">CI / CD</div>
         </div>
 
       </section>
@@ -174,7 +177,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://vercel.app"
+                src="https://cv-rho-flax.vercel.app/"
                 title="CV Project"
               ></iframe>
             </div>
@@ -202,7 +205,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://vercel.app"
+                  href="https://cv-rho-flax.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -210,7 +213,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/wingless-bird/CV"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -229,7 +232,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://vercel.app"
+                src="https://cart-sooty-pi.vercel.app/"
                 title="E-Commerce Website"
               ></iframe>
             </div>
@@ -258,7 +261,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://vercel.app"
+                  href="https://cart-sooty-pi.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -266,7 +269,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/wingless-bird/CART"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -274,7 +277,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com-Backend"
+                  href="https://github.com/wingless-bird/CART-Backend"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -293,7 +296,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://vercel.app"
+                src="https://login-system-kohl-three.vercel.app/"
                 title="Login System"
               ></iframe>
             </div>
@@ -320,7 +323,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://vercel.app"
+                  href="https://login-system-kohl-three.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -328,7 +331,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/wingless-bird/Login-System"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -347,7 +350,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://github.io"
+                src="https://wingless-bird.github.io/Weather-app/search.html"
                 title="Weather App"
               ></iframe>
             </div>
@@ -375,7 +378,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://github.io"
+                  href="https://wingless-bird.github.io/Weather-app/search.html"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -383,7 +386,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/wingless-bird/Weather-app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -402,7 +405,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://vercel.app"
+                src="https://coming-soon-page-with-background-im.vercel.app/"
                 title="Coming Soon Landing Page"
               ></iframe>
             </div>
@@ -429,7 +432,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://vercel.app"
+                  href="https://coming-soon-page-with-background-im.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -437,7 +440,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/wingless-bird/Coming-Soon-Page-with-Background-Image-Slider"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -456,7 +459,7 @@ function App() {
 
             <div className="project-preview">
               <iframe
-                src="https://github.io"
+                src="https://wingless-bird.github.io/One-Page-Website/"
                 title="Construction Company Website"
               ></iframe>
             </div>
@@ -484,7 +487,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://github.io"
+                  href="https://wingless-bird.github.io/One-Page-Website/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -492,7 +495,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/wingless-bird/One-Page-Website"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
