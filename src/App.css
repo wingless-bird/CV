@@ -112,9 +112,7 @@ nav ul a:hover, nav ul a.active {
   font-weight: 800;
   letter-spacing: -0.05rem;
   margin-bottom: 1rem;
-  background: linear-gradient(to right, #ffffff, #ffffff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ffffff; 
 }
 
 .hero p {
