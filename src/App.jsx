@@ -25,7 +25,7 @@ function App() {
             className="hero-profile"
           />
 
-          <h1 style={{ fontSize: "2.5rem", fontWeight: "bold", color:"white" }}>
+          <h1>
             I'm Mansoor Siddique.
           </h1>
 
