@@ -74,8 +74,8 @@ function App() {
             </a>
 
             <a
-              href="/Mansoor_Siddique_CV.pdf"
-              download="Mansoor_Siddique_CV.pdf"
+              href="/Mansoor_CV.pdf"
+              download="Mansoor_CV.pdf"
               title="Download PDF Resume"
               className="download-btn"
             >
