@@ -73,7 +73,7 @@ function App() {
               <i className="fab fa-linkedin"></i>
             </a>
 
-            <a
+            {/* <a
               href="/Mansoor_CV.pdf"
               download="Mansoor_CV.pdf"
               title="Download PDF Resume"
@@ -81,7 +81,7 @@ function App() {
             >
               <i className="fas fa-download"></i>
               <span>Download Resume</span>
-            </a>
+            </a> */}
 
           </div>
 
